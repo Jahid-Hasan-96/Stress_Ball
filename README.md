@@ -82,7 +82,7 @@ And include them in the README:
 ```markdown
 ### Desktop View
 
-![Desktop]((https://github.com/user-attachments/assets/d893eb50-787a-42e6-983c-e560a297468c))
+![Desktop](https://github.com/user-attachments/assets/5671d988-18da-40c4-8bd4-dc02fd8478d7)
 
 ### Mobile View
 
